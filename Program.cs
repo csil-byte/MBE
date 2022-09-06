@@ -2,6 +2,7 @@
 using MySql.Data.MySqlClient;
 using System.Diagnostics;
 using ApiConsumption;
+using System.Text;
 
 namespace MBE_PRUEBA_22
 {
@@ -26,10 +27,16 @@ namespace MBE_PRUEBA_22
                             HttpApi.GetApi(reader.GetString(2));
 
                         }
-                    //    if (reader.GetString(1) == "LINUX")
-                    //    {
-                    //    Console.WriteLine("if LIN");
-                    //}
+                        if (reader.GetString(1) == "LINUX")
+                        {
+                       
+                            StringBuilder sb = new StringBuilder(reader.GetString(2));
+                            sb.Append(".exe");
+                       
+                            ProcessStartInfo startInfo = new ProcessStartInfo() { FileName = sb.ToString()};
+                            Process proc = new Process() { StartInfo = startInfo, };
+                            proc.Start();
+                        }
 
                     } while (reader.Read());
                 Console.ReadLine();
