@@ -1,0 +1,12 @@
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\bin\Debug\net5.0\ApiConsumption.deps.json
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\bin\Debug\net5.0\ApiConsumption.dll
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\bin\Debug\net5.0\ApiConsumption.pdb
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\obj\Debug\net5.0\ApiConsumption.csproj.AssemblyReference.cache
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\obj\Debug\net5.0\ApiConsumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\obj\Debug\net5.0\ApiConsumption.AssemblyInfoInputs.cache
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\obj\Debug\net5.0\ApiConsumption.AssemblyInfo.cs
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\obj\Debug\net5.0\ApiConsumption.csproj.CoreCompileInputs.cache
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\obj\Debug\net5.0\ApiConsumption.dll
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\obj\Debug\net5.0\refint\ApiConsumption.dll
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\obj\Debug\net5.0\ApiConsumption.pdb
+C:\Users\Ceci\Desktop\MBE_PRUEBA_22\ApiConsumption\obj\Debug\net5.0\ref\ApiConsumption.dll
